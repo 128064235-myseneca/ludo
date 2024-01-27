@@ -8,8 +8,10 @@
 
 ## Table of Contents
 1. [Part A - Adding Files - Local Repo Workflow](#part-a---adding-files---local-repo-workflow)
-2. [Part B - Inspecting Local Repo with `git status` and `git log`](#header2)
+2. [Part B - Inspecting Local Repo with `git status` and `git log`](#part-b---inspecting-local-repo-with-git-status-and-git-log)
 3. [Part C - Creating & Merging Branches](#header3)
 4. [Part D - Git Branching Strategy Review Question](#header4)
 
 ### Part A - Adding Files - Local Repo Workflow
+
+### Part B - Inspecting Local Repo with `git status` and `git log`
